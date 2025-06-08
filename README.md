@@ -1,3 +1,1 @@
-# stanrecorder
-
-Call recorder app for Android :) xoxo
+there is nothing to read xoxo
